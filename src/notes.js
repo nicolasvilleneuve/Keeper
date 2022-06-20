@@ -13,6 +13,11 @@ const Notes = [
         id: 3,
         title: "yreyeryrd",
         content: "bfdbfcb"
+    },
+    {
+        id: 4,
+        title: "yreyeryrd",
+        content: "bfdbfcb"
     }
 ]
 export default Notes;
